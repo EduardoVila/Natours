@@ -1,0 +1,1 @@
+This project is part of a Udemy course. I had done this project in May 2017, the course teaches about advanced CSS using SASS.
